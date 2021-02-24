@@ -1,0 +1,1 @@
+simple scripts to scrape data about products from web pages using pure JS. 
