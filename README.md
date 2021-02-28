@@ -17,9 +17,8 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+        <li><a href="#license">License</a></li>
   </ol>
   
   
@@ -46,4 +45,5 @@ This project has the main intention of being educational and less of practical u
 ## Contact
 you can contact me through my email.
 
-## licences 
+## licence 
+MIT Licence
